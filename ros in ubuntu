@@ -1,16 +1,16 @@
 Steps:
-Download the visual box
+i Download the visual box
 
-Download Ubuntu20.04 Open visual box :
+Download Ubuntu20.04 Open it in visual box :
 
-Change settings
+Change settings like
 Defining a new system to suit the device
 Choosing a Linux system to open Ubuntu20.04
 Open and configure Ubuntu on the visual box
 
 Open the program on the device
 Fill in all the required data (account data - storage location - region - language ...)
-Open Ubuntu and download Ros no into Ubuntu20.4 Ros installation method:
+Open Ubuntu and download Ros now into Ubuntu20.4 Ros installation method:
 
 Open any browser inside Ubuntu20.04 and search for the steps to install Ros noetic from the Ros System website
 Open the terminal on Ubuntu.
